@@ -1,0 +1,12 @@
+#input{
+    text-align: center;
+   background-color:#ddd ;
+  border-radius: 5px;
+   padding: 15px;
+}
+
+#Container{
+    background:rgb(255, 238, 0);
+    padding: 15px;
+    text-align: center;
+}
